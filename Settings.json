@@ -1,0 +1,31 @@
+{
+  "token": "8905037621:AAFqxbp2t4QOO_MCHA8HHGz5ev9oAlXv0dI",
+  "channel_id": "-1003585064732",
+  "admin_ids": [
+    1370991426
+  ],
+  "tags": [
+    "gay"
+  ],
+  "autopost": true,
+  "interval": 60,
+  "proxy": "",
+  "exclude_tags": [
+    "trap",
+    "ai",
+    "ai_generated",
+    "ubisoft",
+    "cuntboy",
+    "furry",
+    "roblox",
+    "forsaken",
+    "fnaf",
+    "deltarune",
+    "undertale",
+    "anthropomorphic",
+    "animal",
+    "anthro"
+  ],
+  "api_user_id": "6875853",
+  "api_key": "e2879016102c48cb086488e80de323a93614c5b90c2aea7504926fa1fb617e05db474e2a267fed82a2a8a0d3d802d3ea6d2f635bf87d7bfd458af4187941979f"
+}
