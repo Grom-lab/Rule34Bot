@@ -8,7 +8,7 @@
     "gay"
   ],
   "autopost": true,
-  "interval": 60,
+  "interval": 120,
   "proxy": "",
   "exclude_tags": [
     "trap",
