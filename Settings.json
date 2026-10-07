@@ -25,7 +25,133 @@
     "anthropomorphic",
     "animal",
     "anthro",
-    "fat"
+    "fat",
+    "furry_female_solo", "furry_male_solo", "anthro_solo", "anthro_focus",
+    "anthro_penetrated", "anthro_penetrating", "anthro_pov", "furry_pov",
+    "furry_on_female", "furry_on_male", "furry_on_human", "human_on_anthro",
+    "anthro_on_human", "furry_oc", "furry_futa", "furry_trap", "furry_femboy",
+    "furry_yiff", "yiff", "fursona", "fursuit", "fursuiter", "kigurumi",
+    "furry_comic", "furry_animation", "furry_3d", "furry_pinup",
+    "furry_nipples", "furry_breasts", "furry_chest", "furry_fur_tuft",
+    "fur_tuft", "chest_tuft", "neck_tuft", "cheek_tuft", "fluffy_chest",
+    "multicolored_fur", "two_tone_fur", "white_fur", "black_fur", "brown_fur",
+    "grey_fur", "orange_fur", "blue_fur", "pink_fur", "red_fur", "yellow_fur",
+    "green_fur", "purple_fur", "striped_fur", "spotted_fur", "stripes",
+    "spots", "countershading", "markings", "facial_markings", "tail_markings",
+    "heterochromia_furry", "slit_pupils", "animal_eyes", "fangs", "sharp_teeth",
+    "snaggletooth", "tongue_out_furry", "long_tongue", "forked_tongue",
+    "animal_nose_only", "black_nose", "pink_nose", "wet_nose", "floppy_ears",
+    "pointy_ears_animal", "long_ears", "big_ears", "ear_piercing_furry",
+    "ear_fluff", "ear_tuft", "tuft", "mane", "mane_hair", "tail_tuft",
+    "bushy_tail", "long_tail", "thick_tail", "curled_tail", "prehensile_tail",
+    "tail_between_legs", "tail_raised", "tail_up", "tail_hug", "tail_grab",
+    "tail_ring", "tail_bow", "tail_ribbon", "multiple_tails", "two_tails",
+    "three_tails", "four_tails", "five_tails", "six_tails", "seven_tails",
+    "eight_tails", "nine_tails",
+
+    # телосложение
+    "muscular_anthro", "chubby_anthro", "slim_anthro", "tall_anthro",
+    "short_anthro", "plump_anthro", "bara_anthro", "twink_anthro",
+    "thick_thighs_furry", "wide_hips_furry", "digitigrade", "plantigrade",
+    "paw_shoes", "hindpaws", "forepaws", "toe_beans", "paw_pads",
+    "hooves", "hoofed", "cloven_hooves", "talons", "bird_legs", "bird_feet",
+    "reverse_joint_legs", "quadruped", "bipedal", "taur", "centaur",
+    "wolf_taur", "cat_taur", "dragon_taur", "drider", "lamia_taur", "naga_taur",
+
+    # кошачьи (виды)
+    "tabby", "calico", "siamese", "bengal_cat", "maine_coon", "persian_cat",
+    "black_cat", "white_cat", "orange_cat", "kitten", "cheetah_girl",
+    "snow_leopard", "jaguar", "cougar", "mountain_lion", "puma", "caracal",
+    "serval", "ocelot", "bobcat", "sabertooth", "smilodon", "liger", "tigon",
+    "tigress", "white_tiger", "black_panther", "clouded_leopard", "sphynx",
+
+    # собачьи (виды)
+    "puppy", "pup", "german_shepherd", "labrador", "golden_retriever",
+    "dalmatian", "doberman", "rottweiler", "pitbull", "bulldog", "corgi",
+    "beagle", "border_collie", "collie", "poodle", "chihuahua", "pomeranian",
+    "akita", "samoyed", "malamute", "great_dane", "greyhound", "dachshund",
+    "pug", "terrier", "hound", "hellhound", "cerberus", "anubis", "fennec_fox",
+    "arctic_fox", "red_fox", "silver_fox", "dire_wolf", "gray_wolf",
+    "timber_wolf", "maned_wolf", "dingo", "dhole", "wolfdog",
+
+    # зайцы / грызуны (виды)
+    "lop_rabbit", "hare", "jackalope", "pika", "guinea_pig", "chinchilla",
+    "gerbil", "capybara", "beaver", "porcupine", "chipmunk", "marmot",
+    "groundhog", "prairie_dog", "naked_mole_rat", "dormouse", "vole",
+    "lemming", "muskrat", "nutria",
+
+    # копытные и крупные
+    "stallion", "mare", "foal", "clydesdale", "arabian_horse", "mustang",
+    "pegasus", "alicorn", "kirin", "qilin", "donkey", "mule", "bull", "minotaur",
+    "minotaur_girl", "ox", "buffalo", "bison", "yak", "water_buffalo", "ram",
+    "lamb", "ewe", "bighorn", "ibex", "antelope", "gazelle", "impala", "elk",
+    "moose", "reindeer", "caribou", "stag", "fawn", "doe", "buck", "camel",
+    "llama", "alpaca", "boar", "warthog", "piglet", "sow", "tapir",
+
+    # медведи, куньи, прочие млекопитающие
+    "grizzly_bear", "black_bear", "brown_bear", "teddy_bear", "kodiak",
+    "wolverine", "marten", "stoat", "mink", "fisher_cat", "mongoose",
+    "civet", "genet", "aardvark", "armadillo", "anteater", "pangolin",
+    "opossum", "possum", "wombat", "tasmanian_devil", "platypus", "echidna",
+    "kangaroo_girl", "wallaby", "bandicoot", "bilby", "lemur", "ring-tailed_lemur",
+    "baboon", "mandrill", "orangutan", "chimpanzee", "gibbon", "macaque",
+    "capuchin", "sugar_glider", "flying_squirrel", "mole", "shrew",
+    "walrus", "seal", "sea_lion", "manatee", "dugong", "narwhal", "beluga",
+    "bat_ears", "fruit_bat", "vampire_bat", "bat_boy",
+
+    # птицы
+   "condor", "osprey", "kestrel", "secretary_bird",
+    "griffin", "gryphon", "hippogriff", "thunderbird", "dove", "pigeon",
+    "sparrow", "finch", "robin", "bluebird", "cardinal", "canary", "budgie",
+    "cockatoo", "macaw", "toucan", "hummingbird", "kingfisher", "magpie",
+    "blue_jay", "seagull", "pelican", "heron", "crane", "stork",
+    "flamingo", "ostrich", "emu", "cassowary", "kiwi_bird", "hen",
+    "turkey", "peacock", "peafowl", "pheasant", "goose", "mallard", "puffin",
+    "albatross", "cormorant", "loon", "owl_boy", "bird_boy", "bird_tail",
+    "bird_ears", "winged_arms", "harpy_girl", "harpy_boy", "avian_taur",
+
+    # морские и водные
+    "great_white_shark", "hammerhead", "whale_shark", "megalodon", "manta_ray",
+    "stingray", "eel", "electric_eel", "seahorse", "jellyfish", "starfish",
+    "lobster", "shrimp", "clownfish", "betta", "koi", "goldfish", "piranha",
+    "anglerfish", "kraken", "tentacle_monster", "siren", "aquatic", "finned",
+    "fins", "gills", "webbed_hands", "webbed_feet", "scales_aquatic",
+    "shark_teeth", "sharp_fangs", "shark_fin", "dorsal_fin", "tail_fin",
+
+    # насекомые и членистоногие
+    "dragonfly", "wasp", "hornet", "scarab", "cockroach",
+    "firefly", "caterpillar", "cicada", "cricket", "grasshopper", "ant_girl",
+    "mantis_girl", "moth_girl", "moth_wings", "insect_wings", "insect_antennae",
+    "antennae", "mandibles", "exoskeleton", "compound_eyes", "chitin",
+    "carapace", "stinger", "centipede", "tarantula", "black_widow", "crab_girl",
+
+    # кемономими и аниме-вариации
+    "kemonomimi_girl", "kemonomimi_boy", "beastgirl", "beastboy", "beast_girl",
+    "beastwoman", "beastman_furry", "demi-human", "demihuman",
+    "demi_human", "animal_girl", "animal_boy", "animal_costume", "animal_hood",
+    "animal_hat", "animal_print", "animal_onesie", "cat_costume", "cat_lingerie",
+    "cat_cutout", "cat_keyhole", "cat_paws", "cat_hat", "cat_hood", "cat_pose",
+    "cat_bell", "bell_collar", "dog_costume", "dog_collar", "dog_leash",
+    "dog_pose", "puppy_pose", "dog_paws", "wolf_costume", "fox_costume",
+    "fox_mask", "kitsune_mask", "kitsune_miko", "bunny_costume", "bunny_pose",
+    "bunny_paws", "rabbit_costume", "cow_costume", "cow_bikini", "cow_lingerie",
+    "tiger_print", "leopard_print", "zebra_print", "snake_print", "leopard_ears",
+    "tiger_ears", "tiger_tail", "lion_ears", "bear_costume", "panda_costume",
+    "pig_costume", "sheep_costume", "deer_costume", "dragon_costume",
+    "dino_costume", "dinosaur_costume", "kigurumi_furry", "onesie_animal",
+    "tail_plug_furry", "tailed", "animal_tailed", "ears_and_tail", "futanari",
+
+    # мифические / полу-животные
+    "kitsune_girl", "bakeneko", "nekomusume", "inu", "okami_girl",
+    "tengu", "tanuki_girl", "bake-danuki", "kappa", "nue", "baku", "komainu",
+    "shisa", "fenrir", "garmr", "sphinx", "manticore", "chimera", "cockatrice",
+    "wendigo", "jackalope_furry", "thunderbird_furry", "lycanthrope", "werecat",
+    "werefox", "werebear", "weretiger", "wererat", "werebat", "weregator",
+    "wolfman", "catman", "foxman", "lizardfolk", "frogfolk", "birdfolk",
+    "batfolk", "rat_folk", "kenku", "tabaxi", "kobold_furry", "lizardman_furry",
+    "argonian", "khajiit", "dragonborn_furry", "charr", "asari_furry",
+    "digimon_furry", "pokemon_furry", "anthro_pokemon", "anthro_digimon", "pokemon"
+    
   ],
   "api_user_id": "6875853",
   "api_key": "e2879016102c48cb086488e80de323a93614c5b90c2aea7504926fa1fb617e05db474e2a267fed82a2a8a0d3d802d3ea6d2f635bf87d7bfd458af4187941979f"
